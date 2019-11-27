@@ -8,6 +8,8 @@ import ar from './countries/ar';
 import fr from './countries/fr';
 import pl from './countries/pl';
 import tr from './countries/tr';
+import ro from './countries/ro';
+import ru from './countries/ru';
 
 export default{
   zh_TW,
@@ -19,5 +21,7 @@ export default{
   ar, // Arabia 阿拉伯文
   fr, // French 
   pl, // Polish 波蘭語
-  tr, // Turkish 土耳其
+  tr, // Turkish 土耳其,
+  ro, // Romanian,
+  ru, // Russian
 }
